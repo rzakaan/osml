@@ -1,0 +1,3 @@
+#define EULER_CONST 2.7182
+#define PI_CONST 3.1415
+
